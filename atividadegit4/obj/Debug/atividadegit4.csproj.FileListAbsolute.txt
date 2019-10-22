@@ -1,0 +1,7 @@
+C:\Users\aluno2\Desktop\atividade\atividadegit4\atividadegit4\bin\Debug\atividadegit4.exe.config
+C:\Users\aluno2\Desktop\atividade\atividadegit4\atividadegit4\bin\Debug\atividadegit4.exe
+C:\Users\aluno2\Desktop\atividade\atividadegit4\atividadegit4\bin\Debug\atividadegit4.pdb
+C:\Users\aluno2\Desktop\atividade\atividadegit4\atividadegit4\obj\Debug\atividadegit4.csprojAssemblyReference.cache
+C:\Users\aluno2\Desktop\atividade\atividadegit4\atividadegit4\obj\Debug\atividadegit4.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Desktop\atividade\atividadegit4\atividadegit4\obj\Debug\atividadegit4.exe
+C:\Users\aluno2\Desktop\atividade\atividadegit4\atividadegit4\obj\Debug\atividadegit4.pdb
