@@ -20,5 +20,9 @@ namespace atividadegit4
         {
             return valor1 - valor2;
         }
+        public static int divisao(int valor1, int valor2)
+        {
+            return valor1 / valor2;
+        }
     }
 }
