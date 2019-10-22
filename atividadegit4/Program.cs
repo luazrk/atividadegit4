@@ -11,6 +11,7 @@ namespace atividadegit4
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Resultado da soma {0}+{1}={2}", 3, 5, somar(3, 5));
         }
         public static int somar(int valor1, int valor2)
         {
