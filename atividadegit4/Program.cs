@@ -33,5 +33,9 @@ namespace atividadegit4
         {
             return valor1 * valor2;
         }
+
+        while(true){
+            Console.WriteLine("Luana chata");
+        }
     }
 }
